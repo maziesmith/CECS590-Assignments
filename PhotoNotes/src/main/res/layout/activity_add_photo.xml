@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="64dp"
+    android:paddingRight="16dp"
+    android:paddingTop="64dp"
+    tools:context="android.csulb.edu.notedatabase.AddPhotoActivity">
+
+
+    <Button
+        android:id="@+id/cameraButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Take Photo"
+        android:layout_marginTop="12dp"
+        android:onClick="onClickCamera"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/captionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="17dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Caption"
+        android:layout_below="@+id/cameraButton"
+        android:layout_alignEnd="@+id/cancelButton"
+        android:layout_alignStart="@+id/saveButton" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:onClick="onClickSave"
+        android:layout_below="@+id/captionText"
+        android:layout_toStartOf="@+id/cameraButton"
+        android:layout_marginTop="31dp" />
+
+    <Button
+        android:id="@+id/cancelButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:layout_toEndOf="@+id/cameraButton"
+        android:onClick="onClickCancel"
+        android:layout_alignTop="@+id/saveButton" />
+</RelativeLayout>
