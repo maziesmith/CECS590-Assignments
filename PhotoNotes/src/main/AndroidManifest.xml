@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         >
-        <activity android:name=".AddPhotoActivity"></activity>
+        <activity android:name=".AddPhotoActivity" android:configChanges="orientation|screenSize"></activity>
         <activity
             android:name=".ListActivity"
             android:label="@string/title_activity_list"
