@@ -1,0 +1,7 @@
+#Fri Apr 21 02:08:34 PDT 2017
+base.0=E\:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4f7e373d11d925daa50eaf2e782307d1cf0dcbba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_814f097789ea2d6f61179c8d84590ec9823806c3\\classes.dex
+base.1=E\:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_814f097789ea2d6f61179c8d84590ec9823806c3
+file.0=E\:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4f7e373d11d925daa50eaf2e782307d1cf0dcbba\\classes.dex
