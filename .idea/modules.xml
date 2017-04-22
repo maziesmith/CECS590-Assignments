@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArtTherapy/ArtTherapy.iml" filepath="$PROJECT_DIR$/ArtTherapy/ArtTherapy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BluetoothChat/BluetoothChat.iml" filepath="$PROJECT_DIR$/BluetoothChat/BluetoothChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/CECS590-Assignments.iml" filepath="$PROJECT_DIR$/CECS590-Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoNotes/PhotoNotes.iml" filepath="$PROJECT_DIR$/PhotoNotes/PhotoNotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/TacoPronto/TacoPronto.iml" filepath="$PROJECT_DIR$/TacoPronto/TacoPronto.iml" />
