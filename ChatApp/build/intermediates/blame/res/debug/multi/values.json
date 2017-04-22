@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -3729,7 +3729,7 @@
                     "endOffset": 41172
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -3748,7 +3748,7 @@
                     "endOffset": 41215
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -3767,7 +3767,7 @@
                     "endOffset": 41259
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3786,7 +3786,7 @@
                     "endOffset": 41304
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -3805,7 +3805,7 @@
                     "endOffset": 41347
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -3824,7 +3824,7 @@
                     "endOffset": 41389
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4128,7 +4128,7 @@
                     "endOffset": 42435
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -5021,7 +5021,7 @@
                     "endOffset": 45541
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\base-strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -5040,7 +5040,7 @@
                     "endOffset": 45643
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -5059,7 +5059,7 @@
                     "endOffset": 45700
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -5078,7 +5078,7 @@
                     "endOffset": 45759
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -5097,7 +5097,7 @@
                     "endOffset": 45832
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -5117,7 +5117,7 @@
                     "endOffset": 46421
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\base-strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -5137,7 +5137,7 @@
                     "endOffset": 46477
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -5156,7 +5156,7 @@
                     "endOffset": 46545
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -5175,7 +5175,7 @@
                     "endOffset": 46621
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -5194,7 +5194,7 @@
                     "endOffset": 46674
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\fragmentview_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -5213,7 +5213,7 @@
                     "endOffset": 46727
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\fragmentview_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -5232,7 +5232,7 @@
                     "endOffset": 46788
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -5270,7 +5270,7 @@
                     "endOffset": 46910
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -5289,7 +5289,7 @@
                     "endOffset": 46979
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -5308,7 +5308,7 @@
                     "endOffset": 47017
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -5346,7 +5346,7 @@
                     "endOffset": 47185
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -5365,7 +5365,7 @@
                     "endOffset": 47244
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -5384,7 +5384,7 @@
                     "endOffset": 47306
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -5403,7 +5403,7 @@
                     "endOffset": 47378
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -5422,7 +5422,7 @@
                     "endOffset": 47442
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -5517,7 +5517,7 @@
                     "endOffset": 47845
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -10450,7 +10450,7 @@
                     "endOffset": 132746
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -10469,7 +10469,7 @@
                     "endOffset": 132799
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -10621,7 +10621,7 @@
                     "endOffset": 133498
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -12089,7 +12089,7 @@
                     "endOffset": 141409
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -12110,7 +12110,7 @@
                     "endOffset": 141687
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,

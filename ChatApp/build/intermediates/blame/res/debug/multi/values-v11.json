@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -398,7 +398,7 @@
                     "endOffset": 12710
                 },
                 "from": {
-                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\BluetoothChat\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "file": "E:\\Sumeet_Backup_E\\implementation\\Android\\CECS590-Assignments\\ChatApp\\src\\main\\res\\values-v11\\template-styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
