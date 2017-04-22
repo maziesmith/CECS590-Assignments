@@ -1,1 +1,1 @@
-include ':TacoPronto', ':PhotoNotes', ':ArtTherapy', ':Chat'
+include ':TacoPronto', ':PhotoNotes', ':ArtTherapy', ':BluetoothChat'

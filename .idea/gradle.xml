@@ -10,7 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ArtTherapy" />
-            <option value="$PROJECT_DIR$/Chat" />
+            <option value="$PROJECT_DIR$/BluetoothChat" />
             <option value="$PROJECT_DIR$/PhotoNotes" />
             <option value="$PROJECT_DIR$/TacoPronto" />
           </set>
